@@ -67,3 +67,19 @@ textarea:focus {
     margin-bottom: 1rem;
     white-space: pre-wrap;
 }
+
+button#clearBtn {
+    background-color: #21262d;
+    color: #c9d1d9;
+    border: 1px solid #30363d;
+    border-radius: 6px;
+    padding: 0.5rem 1rem;
+    font-family: "MyFont";
+    cursor: pointer;
+    margin-bottom: 1rem;
+}
+
+button#clearBtn:hover {
+    background-color: #30363d;
+    border-color: #58a6ff;
+}
